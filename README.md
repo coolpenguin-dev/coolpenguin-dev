@@ -23,23 +23,23 @@
 
 <img align="left" alt="GIF" src="techstack.gif" width="260px">
 
-### &nbsp; 🛠️ Technical Skills
+### 🛠️ Technical Skills
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔭 **Backend**: Node.js, CI, Laravel, Django, Flask, Express, NestJS, PHP  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; - 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
-&nbsp;
+- 🌱 **Frontend**: React, Next.js, Web3.js, Angular, Vue, Material UI, TailwindCSS  
+- 🔭 **Backend**: Node.js, CI, Laravel, Django, Flask, Express, NestJS, PHP  
+- 📱 **Mobile Development**: Android, React Native, Ionic, Flutter  
+- 📂 **Database**: MySQL, PostgreSQL, MongoDB, Firestore, MariaDB, SQLite, Supabase  
+- 💻 **Programming Languages**: HTML, JavaScript, TypeScript, Python, PHP, C++, C#, Go  
+- 🔥 **CMS Platforms**: WordPress, Shopify, Wix, Framer, Webflow  
+- ⛓️ **Blockchain**: Solidity, Ethereum, Web3.js, Truffle, IPFS,  Solana, Cosmos SDK  
+- 🎮 **Game Development**: Unity, Unreal Engine, Cocos2d, Game Maker Studio, Three.js 
 
 ### 🚧 Current Projects
-- 🍃 RESTful Web Services & Web Services with Spring Boot
+- 🍃 RESTful Web Services & Web Services with Python
 - 🔗 Third Party API Integration & OAuth
 - 🎨 Angular 𒑰 Angular Material 𒑰 React 𒑰 Next.js
 - 💪 Node 𒑰 Django 𒑰 Serverless 𒑰 PostgreSQL
+- 
 
 ### 🌱 What I'm boosting
 - 🛠 AWS Cloud Serivces 𒑰 Serverless 𒑰 Terraform
